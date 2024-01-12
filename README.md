@@ -2,6 +2,8 @@
 
 * Final-year Computer Science student with a strong passion for backend development.
 
+<hr>
+
 ## Contact with me on
 
 * Email: khaledbahaa2400@gmail.com<br><br>
