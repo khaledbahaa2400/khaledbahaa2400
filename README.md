@@ -1,6 +1,6 @@
 ## Hi there, I'm Khaled Bahaa 👋
 
-* Final-year Computer Science student with a strong passion for backend development.
+* A Computer Science fresh graduate with a strong passion for backend development.
 
 <hr>
 
