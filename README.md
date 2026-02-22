@@ -1,6 +1,6 @@
 ## Hi there, I'm Khaled Bahaa 👋
 
-* A Computer Science fresh graduate with a strong passion for backend development.
+* A Full-Stack Web Developer.
 
 <hr>
 
